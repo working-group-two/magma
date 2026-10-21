@@ -1,6 +1,6 @@
 astroid==2.3.3
 autopep8==1.5
-certifi==2019.11.28
+certifi==2026.10.19
 chardet==3.0.4
 gql==0.3.0
 graphql-core==2.3.1
